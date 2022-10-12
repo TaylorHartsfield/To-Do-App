@@ -1,0 +1,15 @@
+main {
+  border-style: solid;
+  text-align: center;
+  vertical-align: center;
+  line-height: 3vh
+ 
+}
+li {
+    list-style: dot-dash; 
+}
+
+h3 {
+    padding-top: none;
+    margin-top: none;
+}
