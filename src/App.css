@@ -6,7 +6,8 @@ main {
  
 }
 li {
-    list-style: dot-dash; 
+    text-align: left;
+    list-style: none; 
 }
 
 h3 {

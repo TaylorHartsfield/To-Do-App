@@ -1,3 +1,4 @@
+
 export default function Base({ header, currentList }) {
     return (
         <div className="base">
